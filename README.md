@@ -25,4 +25,8 @@ git checkout -b 브랜치이름
 ex) git checkout -b apply-feedback
 ```
 숫자야구 기능 구현
-1. 
+1. 전부 맞혔을 때 기능
+2. 2스트라이크일 때
+3. 2볼일 때
+4. 다 틀렸을 때
+5. 
