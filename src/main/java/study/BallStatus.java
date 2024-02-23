@@ -1,5 +1,12 @@
 package study;
 
 public enum BallStatus {
-    NOTHING, BALL, STRIKE
+    NOTHING, BALL, STRIKE;
+
+    public boolean isStrike() {
+        return this == STRIKE;
+    }
+    public boolean isBall() {
+        return this == BALL;
+    }
 }
